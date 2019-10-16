@@ -1,0 +1,21 @@
+.container-home {
+	font-family: 'Nunito', sans-serif;
+}
+.font-1 {
+font-weight: bold;
+font-size: 50px;
+}
+
+.font-2 {	
+font-weight: bold;
+font-size: 18px;
+}
+
+.petit-texte-1 h3 {
+	font-size: 36px;
+	font-weight: bold;
+}
+
+.petit-texte-1 p {
+	font-size: 16px;
+}
